@@ -120,13 +120,13 @@ table.profile {
 }
 
 td.main {
-	width: 70%
+	width: 70%;
 	padding: 1em;
 	
 }
 
 td.sidebar {
-	width: 30%
+	width: 30%;
 	padding: 1em;
 	vertical-align:top;
 	background: #ffc;
